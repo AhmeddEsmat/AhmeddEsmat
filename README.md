@@ -16,17 +16,88 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%201%20min-blue?style=flat)
 
-```txt
-From: 09 July 2026 - To: 13 July 2026
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue?style=flat)
 
-Total Time: 9 hrs 50 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108.53%20thousand%20lines%20of%20code-blue?style=flat)
 
-TypeScript   4 hrs 49 mins         ███████████▓░░░░░░░░░░░░░   47.07 %
-JSON         3 hrs 30 mins         ████████▓░░░░░░░░░░░░░░░░   34.17 %
-YAML         37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Other        24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Markdown     22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+**🐱 My GitHub Data** 
+
+> 📦 42.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 939 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                26 commits          █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+🌆 Daytime                27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+🌃 Evening                51 commits          ██████████░░░░░░░░░░░░░░░   40.48 % 
+🌙 Night                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Friday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Saturday                 51 commits          ██████████░░░░░░░░░░░░░░░   40.48 % 
+Sunday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+TypeScript               4 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.36 % 
+JSON                     3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
+YAML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 52 mins       ██████████████████████░░░   86.93 % 
+Claude Code              1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+
+🐱‍💻 Projects: 
+thndrx                   4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.73 % 
+krakend                  3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
+client-apps              1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+savings-service          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+AhmeddEsmat              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+
+💻 Operating System: 
+Mac                      10 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               19 repos            █████████████░░░░░░░░░░░░   52.78 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/07/2026 22:49:17 UTC
 <!--END_SECTION:waka-->
