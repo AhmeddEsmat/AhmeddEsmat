@@ -16,9 +16,7 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2031%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.76%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -61,18 +59,18 @@ Sunday                   32 commits          ██████░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               30 hrs 42 mins      ████████████████████░░░░░   78.96 % 
-JSON                     3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Astro                    2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-CSS                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+TypeScript               25 hrs 55 mins      ████████████████████░░░░░   78.59 % 
+JSON                     3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Astro                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+CSS                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 37 mins      ███████████████████░░░░░░   76.20 % 
-Claude Code              9 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+VS Code                  25 hrs 10 mins      ███████████████████░░░░░░   76.31 % 
+Claude Code              7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
 
 💻 Operating System: 
-Mac                      38 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +90,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 02:47:16 UTC
+ Last Updated on 24/07/2026 02:42:48 UTC
 <!--END_SECTION:waka-->
