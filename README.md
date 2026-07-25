@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.76%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.59%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -32,47 +32,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-🌆 Daytime                30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-🌃 Evening                59 commits          ██████████░░░░░░░░░░░░░░░   40.69 % 
-🌙 Night                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Friday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Saturday                 61 commits          ███████████░░░░░░░░░░░░░░   42.07 % 
-Sunday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-TypeScript               25 hrs 55 mins      ████████████████████░░░░░   78.59 % 
-JSON                     3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Astro                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-CSS                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 10 mins      ███████████████████░░░░░░   76.31 % 
-Claude Code              7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-
-💻 Operating System: 
-Mac                      32 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,5 +49,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:42:48 UTC
+ Last Updated on 25/07/2026 02:41:09 UTC
 <!--END_SECTION:waka-->
