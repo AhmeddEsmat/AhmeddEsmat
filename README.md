@@ -16,13 +16,15 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.59%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 43.9 kB Used in GitHub's Storage 
+> 📦 44.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1,015 Contributions in the Year 2026
  > 
@@ -32,6 +34,47 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                28 commits          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌆 Daytime                30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+🌃 Evening                59 commits          ██████████░░░░░░░░░░░░░░░   41.26 % 
+🌙 Night                  26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Friday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Saturday                 61 commits          ███████████░░░░░░░░░░░░░░   42.66 % 
+Sunday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+TypeScript               25 hrs 54 mins      ██████████████████████░░░   86.55 % 
+JSON                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Astro                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Cheetah                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+
+🔥 Editors: 
+VS Code                  22 hrs 47 mins      ███████████████████░░░░░░   76.13 % 
+Claude Code              7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+
+💻 Operating System: 
+Mac                      29 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -49,5 +92,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:41:09 UTC
+ Last Updated on 26/07/2026 02:49:51 UTC
 <!--END_SECTION:waka-->
