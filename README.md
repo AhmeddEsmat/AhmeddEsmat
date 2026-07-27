@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.59%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.43%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,015 Contributions in the Year 2026
+> 🏆 1,019 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,21 +37,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                28 commits          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-🌆 Daytime                30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-🌃 Evening                59 commits          ██████████░░░░░░░░░░░░░░░   41.26 % 
-🌙 Night                  26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌞 Morning                26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+🌆 Daytime                30 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+🌃 Evening                59 commits          ██████████░░░░░░░░░░░░░░░   41.84 % 
+🌙 Night                  26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Friday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Saturday                 61 commits          ███████████░░░░░░░░░░░░░░   42.66 % 
-Sunday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Friday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Saturday                 61 commits          ███████████░░░░░░░░░░░░░░   43.26 % 
+Sunday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
 ```
 
 
@@ -61,18 +61,18 @@ Sunday                   30 commits          █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               25 hrs 54 mins      ██████████████████████░░░   86.55 % 
-JSON                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Astro                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Cheetah                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+TypeScript               28 hrs 12 mins      ██████████████████████░░░   88.27 % 
+JSON                     3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Cheetah                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 47 mins      ███████████████████░░░░░░   76.13 % 
-Claude Code              7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+VS Code                  24 hrs 3 mins       ███████████████████░░░░░░   75.29 % 
+Claude Code              7 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
 
 💻 Operating System: 
-Mac                      29 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 02:49:51 UTC
+ Last Updated on 27/07/2026 02:58:12 UTC
 <!--END_SECTION:waka-->
