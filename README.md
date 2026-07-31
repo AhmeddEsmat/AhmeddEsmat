@@ -16,11 +16,11 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.01%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -63,42 +63,42 @@ Sunday                   35 commits          ██████░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               23 hrs 16 mins      ███████████████████████░░   91.30 % 
-JSON                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               20 hrs 42 mins      ███████████████████████░░   92.09 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 4 mins       ███████████████████░░░░░░   74.84 % 
-Claude Code              6 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+VS Code                  16 hrs 47 mins      ███████████████████░░░░░░   74.66 % 
+Claude Code              5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
 
 💻 Operating System: 
-Mac                      25 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 26 mins (60.6%)
+⏱ AI Coding Time: 12 hrs 19 mins (54.82%)
 
-✍️ 5,278 lines written by AI, 1,024 lines written by hand (83.75% AI-written)
+✍️ 6,183 lines written by AI, 919 lines written by hand (87.06% AI-written)
 
-🔤 80,363,261 Input Tokens, 559,009 Output Tokens
+🔤 73,064,086 Input Tokens, 438,719 Output Tokens
 
-💵 $417.22 Estimated AI Cost This Week
+💵 $377.71 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 239 AI Prompts
+🧠 40 AI Sessions, 186 AI Prompts
 
-Opus                     6,030 lines         █████████████████████████   99.50 % 
-Sonnet                   30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Opus                     6,804 lines         █████████████████████████   99.56 % 
+Sonnet                   30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.75% of written lines came from AI
-📝 Concise Prompter — average 257 characters per prompt
+🤖 AI-Driven — 87.06% of written lines came from AI
+📝 Concise Prompter — average 335 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 30.86% of changed lines were hand-edited
+🚀 High AI Trust — 24.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,5 +118,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:27:07 UTC
+ Last Updated on 31/07/2026 02:51:47 UTC
 <!--END_SECTION:waka-->
