@@ -16,19 +16,19 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 44.0 kB Used in GitHub's Storage 
+> 📦 44.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,088 Contributions in the Year 2026
+> 🏆 1,098 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,42 +63,42 @@ Sunday                   31 commits          █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               29 hrs 32 mins      █████████████████████░░░░   84.32 % 
-JSON                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Other                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript               32 hrs 19 mins      ██████████████████████░░░   86.46 % 
+JSON                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Other                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JavaScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 1 min        ██████████████████░░░░░░░   71.43 % 
-Claude Code              10 hrs              ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+VS Code                  25 hrs 59 mins      █████████████████░░░░░░░░   69.52 % 
+Claude Code              11 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   30.48 % 
 
 💻 Operating System: 
-Mac                      35 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      37 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 36 mins (50.28%)
+⏱ AI Coding Time: 20 hrs 41 mins (55.33%)
 
-✍️ 5,193 lines written by AI, 2,414 lines written by hand (68.27% AI-written)
+✍️ 6,685 lines written by AI, 2,588 lines written by hand (72.09% AI-written)
 
-🔤 213,186,941 Input Tokens, 870,197 Output Tokens
+🔤 197,307,744 Input Tokens, 1,012,429 Output Tokens
 
-💵 $1072.91 Estimated AI Cost This Week
+💵 $1019.83 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 200 AI Prompts
+🧠 39 AI Sessions, 259 AI Prompts
 
-Opus                     5,965 lines         ████████████████████████░   95.84 % 
-Sonnet                   259 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Opus                     7,510 lines         ████████████████████████░   96.67 % 
+Sonnet                   259 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.27% of written lines came from AI
-📄 Detailed Prompter — average 767 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 47.66% of changed lines were hand-edited
+🤖 AI-Driven — 72.09% of written lines came from AI
+📄 Detailed Prompter — average 615 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 48.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,5 +118,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 01:50:12 UTC
+ Last Updated on 11/08/2026 01:46:16 UTC
 <!--END_SECTION:waka-->
