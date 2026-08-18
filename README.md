@@ -16,19 +16,19 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.22%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.14%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,145 Contributions in the Year 2026
+> 🏆 1,156 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-🌆 Daytime                30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-🌃 Evening                63 commits          ██████████░░░░░░░░░░░░░░░   41.45 % 
-🌙 Night                  27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌞 Morning                32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+🌆 Daytime                30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+🌃 Evening                63 commits          ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌙 Night                  28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Monday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Tuesday                  15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Friday                   35 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Saturday                 62 commits          ██████████░░░░░░░░░░░░░░░   40.79 % 
-Sunday                   34 commits          ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Friday                   35 commits          ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Saturday                 62 commits          ██████████░░░░░░░░░░░░░░░   40.52 % 
+Sunday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
 ```
 
 
@@ -63,53 +63,53 @@ Sunday                   34 commits          ██████░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               30 hrs 30 mins      ████████████████████████░   96.75 % 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               28 hrs 40 mins      ████████████████████████░   96.31 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 47 mins      █████████████████░░░░░░░░   69.13 % 
-Claude Code              9 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Copilot CLI              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+VS Code                  21 hrs 58 mins      ██████████████████░░░░░░░   73.79 % 
+Claude Code              7 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+Copilot CLI              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Mac                      31 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 19 mins (58.11%)
+⏱ AI Coding Time: 16 hrs 38 mins (55.86%)
 
-✍️ 6,065 lines written by AI, 2,132 lines written by hand (73.99% AI-written)
+✍️ 5,298 lines written by AI, 1,751 lines written by hand (75.16% AI-written)
 
-🔤 4,602,421 Input Tokens, 794,846 Output Tokens
+🔤 4,068,748 Input Tokens, 665,529 Output Tokens
 
-💵 $164.06 Estimated AI Cost This Week
+💵 $143.91 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 207 AI Prompts
+🧠 27 AI Sessions, 179 AI Prompts
 
-Opus                     6,824 lines         █████████████████████████   99.56 % 
-GPT                      30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Opus                     5,984 lines         █████████████████████████   99.50 % 
+GPT                      30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.99% of written lines came from AI
-📄 Detailed Prompter — average 800 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 45.59% of changed lines were hand-edited
+🤖 AI-Driven — 75.16% of written lines came from AI
+📄 Detailed Prompter — average 903 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 42.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            █████████████░░░░░░░░░░░░   51.35 % 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JavaScript               19 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
@@ -119,5 +119,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 01:16:53 UTC
+ Last Updated on 18/08/2026 01:14:20 UTC
 <!--END_SECTION:waka-->
