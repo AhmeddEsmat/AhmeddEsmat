@@ -16,7 +16,7 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2051%20mins-blue?style=flat)
 
@@ -63,40 +63,40 @@ Sunday                   40 commits          █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 19 mins       █████████████░░░░░░░░░░░░   52.98 % 
-Astro                    2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Go                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TypeScript               3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.71 % 
+Astro                    2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.66 % 
+Go                       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        ███████████████████░░░░░░   74.99 % 
-Claude Code              2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+VS Code                  5 hrs 46 mins       ███████████████████░░░░░░   74.81 % 
+Claude Code              1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
 
 💻 Operating System: 
-Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (57.35%)
+⏱ AI Coding Time: 4 hrs 24 mins (57.05%)
 
-✍️ 21 lines written by AI, 581 lines written by hand (3.49% AI-written)
+✍️ 21 lines written by AI, 575 lines written by hand (3.52% AI-written)
 
-🔤 729,997 Input Tokens, 134,880 Output Tokens
+🔤 650,689 Input Tokens, 121,881 Output Tokens
 
-💵 $18.05 Estimated AI Cost This Week
+💵 $13.34 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 71 AI Prompts
+🧠 19 AI Sessions, 68 AI Prompts
 
-Opus                     138 lines           █████████████████████████   100.00 % 
+Opus                     101 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.49% of written lines came from AI
-📝 Concise Prompter — average 349 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 92.3% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 3.52% of written lines came from AI
+📝 Concise Prompter — average 233 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 91.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 03:15:20 UTC
+ Last Updated on 05/09/2026 03:18:23 UTC
 <!--END_SECTION:waka-->
