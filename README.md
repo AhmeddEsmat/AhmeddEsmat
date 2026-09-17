@@ -16,19 +16,19 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.64%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.55%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,303 Contributions in the Year 2026
+> 🏆 1,305 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                57 commits          ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-🌆 Daytime                40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-🌃 Evening                71 commits          █████████░░░░░░░░░░░░░░░░   35.86 % 
-🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+🌞 Morning                56 commits          ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌆 Daytime                40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+🌃 Evening                71 commits          █████████░░░░░░░░░░░░░░░░   36.04 % 
+🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Saturday                 62 commits          ████████░░░░░░░░░░░░░░░░░   31.31 % 
-Sunday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Saturday                 62 commits          ████████░░░░░░░░░░░░░░░░░   31.47 % 
+Sunday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
 ```
 
 
@@ -63,41 +63,41 @@ Sunday                   47 commits          ██████░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               23 hrs 26 mins      ████████████████████░░░░░   79.31 % 
-JSON                     4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               23 hrs 40 mins      ████████████████████░░░░░   80.87 % 
+JSON                     4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 43 mins      ██████████████████░░░░░░░   73.49 % 
-Claude Code              7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+VS Code                  21 hrs 21 mins      ██████████████████░░░░░░░   72.98 % 
+Claude Code              7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
 
 💻 Operating System: 
-Mac                      29 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 48 mins (56.85%)
+⏱ AI Coding Time: 17 hrs 41 mins (60.43%)
 
-✍️ 4,272 lines written by AI, 574 lines written by hand (88.16% AI-written)
+✍️ 3,753 lines written by AI, 503 lines written by hand (88.18% AI-written)
 
-🔤 3,982,091 Input Tokens, 575,334 Output Tokens
+🔤 4,207,278 Input Tokens, 485,736 Output Tokens
 
-💵 $116.17 Estimated AI Cost This Week
+💵 $110.07 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 148 AI Prompts
+🧠 33 AI Sessions, 150 AI Prompts
 
-Opus                     4,745 lines         █████████████████████████   100.00 % 
+Opus                     4,090 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.16% of written lines came from AI
-📄 Detailed Prompter — average 748 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 40.06% of changed lines were hand-edited
+🤖 AI-Driven — 88.18% of written lines came from AI
+📄 Detailed Prompter — average 919 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 39.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,5 +117,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 03:41:45 UTC
+ Last Updated on 17/09/2026 03:46:52 UTC
 <!--END_SECTION:waka-->
