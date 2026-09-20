@@ -22,7 +22,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.55%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.80%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-🌆 Daytime                40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-🌃 Evening                71 commits          █████████░░░░░░░░░░░░░░░░   36.04 % 
-🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+🌞 Morning                59 commits          ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌆 Daytime                40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌃 Evening                71 commits          █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Saturday                 62 commits          ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Sunday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Saturday                 62 commits          ████████░░░░░░░░░░░░░░░░░   31.00 % 
+Sunday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 ```
 
 
@@ -63,26 +63,26 @@ Sunday                   46 commits          ██████░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               23 hrs 35 mins      █████████████████████░░░░   85.04 % 
-JSON                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+TypeScript               23 hrs 31 mins      █████████████████████░░░░   85.02 % 
+JSON                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 XML                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-CocoaPods                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+CocoaPods                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 40 mins      █████████████████░░░░░░░░   67.32 % 
-Claude Code              9 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
+VS Code                  18 hrs 36 mins      █████████████████░░░░░░░░   67.24 % 
+Claude Code              9 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.76 % 
 
 💻 Operating System: 
-Mac                      27 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 24 mins (59.14%)
+⏱ AI Coding Time: 16 hrs 24 mins (59.29%)
 
-✍️ 4,048 lines written by AI, 421 lines written by hand (90.58% AI-written)
+✍️ 4,048 lines written by AI, 420 lines written by hand (90.6% AI-written)
 
 🔤 5,207,572 Input Tokens, 501,943 Output Tokens
 
@@ -94,10 +94,10 @@ Opus                     4,467 lines         ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.58% of written lines came from AI
+🤖 AI-Driven — 90.6% of written lines came from AI
 📄 Detailed Prompter — average 1,175 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 21.45% of changed lines were hand-edited
+🚀 High AI Trust — 21.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,5 +117,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 03:29:43 UTC
+ Last Updated on 20/09/2026 03:46:27 UTC
 <!--END_SECTION:waka-->
