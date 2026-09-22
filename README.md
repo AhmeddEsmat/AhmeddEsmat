@@ -16,19 +16,19 @@
 <p><img align="center" src="https://github-readme-stats-black-delta-51.vercel.app/api/top-langs?username=ahmeddesmat&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmeddesmat" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.72%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.80%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,310 Contributions in the Year 2026
+> 🏆 1,312 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                58 commits          ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌆 Daytime                40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-🌃 Evening                71 commits          █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+🌞 Morning                59 commits          ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌆 Daytime                40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌃 Evening                71 commits          █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Saturday                 62 commits          ████████░░░░░░░░░░░░░░░░░   31.16 % 
-Sunday                   48 commits          ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Saturday                 62 commits          ████████░░░░░░░░░░░░░░░░░   31.00 % 
+Sunday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 ```
 
 
@@ -63,42 +63,42 @@ Sunday                   48 commits          ██████░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               25 hrs 37 mins      ███████████████████████░░   90.39 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-CocoaPods                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-XML                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               25 hrs 41 mins      ███████████████████████░░   90.33 % 
+JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+CocoaPods                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+XML                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 20 mins      ██████████████████░░░░░░░   71.76 % 
-Claude Code              7 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+VS Code                  19 hrs 34 mins      █████████████████░░░░░░░░   68.81 % 
+Claude Code              8 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.09 % 
 Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      28 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 57 mins (56.3%)
+⏱ AI Coding Time: 18 hrs 9 mins (63.85%)
 
-✍️ 2,908 lines written by AI, 834 lines written by hand (77.71% AI-written)
+✍️ 3,884 lines written by AI, 808 lines written by hand (82.78% AI-written)
 
-🔤 5,889,619 Input Tokens, 536,515 Output Tokens
+🔤 5,833,814 Input Tokens, 608,023 Output Tokens
 
-💵 $117.03 Estimated AI Cost This Week
+💵 $131.64 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 189 AI Prompts
+🧠 41 AI Sessions, 195 AI Prompts
 
-Opus                     3,420 lines         █████████████████████████   100.00 % 
+Opus                     4,953 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.71% of written lines came from AI
-📚 Verbose Prompter — average 1,629 characters per prompt
+🤖 AI-Driven — 82.78% of written lines came from AI
+📄 Detailed Prompter — average 1,485 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 36.22% of changed lines were hand-edited
+🚀 High AI Trust — 26.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,5 +118,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 03:41:54 UTC
+ Last Updated on 22/09/2026 03:40:04 UTC
 <!--END_SECTION:waka-->
