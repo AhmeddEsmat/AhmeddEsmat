@@ -28,7 +28,7 @@
 
 > 📦 44.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,325 Contributions in the Year 2026
+> 🏆 1,331 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,43 +63,43 @@ Sunday                   53 commits          ██████░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               27 hrs 10 mins      ██████████████████████░░░   88.74 % 
-JSON                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-CocoaPods                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               26 hrs 26 mins      ███████████████████████░░   90.20 % 
+JSON                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 49 mins      ██████████████████░░░░░░░   71.26 % 
-Claude Code              8 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+VS Code                  20 hrs 35 mins      ██████████████████░░░░░░░   70.24 % 
+Claude Code              8 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      30 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 48 mins (64.68%)
+⏱ AI Coding Time: 17 hrs 56 mins (61.22%)
 
-✍️ 5,723 lines written by AI, 850 lines written by hand (87.07% AI-written)
+✍️ 4,800 lines written by AI, 615 lines written by hand (88.64% AI-written)
 
-🔤 5,055,655 Input Tokens, 720,798 Output Tokens
+🔤 4,835,116 Input Tokens, 700,913 Output Tokens
 
-💵 $157.17 Estimated AI Cost This Week
+💵 $137.96 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 182 AI Prompts
+🧠 29 AI Sessions, 163 AI Prompts
 
-Opus                     7,005 lines         █████████████████████████   100.00 % 
+Opus                     6,025 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.07% of written lines came from AI
-📚 Verbose Prompter — average 1,585 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 23.24% of changed lines were hand-edited
+🤖 AI-Driven — 88.64% of written lines came from AI
+📄 Detailed Prompter — average 1,242 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 22.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,5 +119,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmeddEsmat/AhmeddEsmat/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 04:03:28 UTC
+ Last Updated on 28/09/2026 04:04:14 UTC
 <!--END_SECTION:waka-->
